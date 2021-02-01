@@ -1,2 +1,2 @@
 # Essential
-چندین دستور کاربردی جیلبریک در یک مکان
+Essential is a shortcut for jailbroken devices on iOS 13.5 and up
