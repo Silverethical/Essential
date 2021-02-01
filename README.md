@@ -1,2 +1,2 @@
 # Essential
-Essential is a shortcut for jailbroken devices on iOS 13.5 and up
+چندین دستور کاربردی جیلبریک در یک مکان
