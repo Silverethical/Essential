@@ -20,7 +20,7 @@
 
 
 # Download
-* [**Essential 1.1.2** - iOS 13 آخرین نسخه سازگار با](https://www.icloud.com/shortcuts/bbace1e1a13b4293a0b3dece4a1c3f85)  
+* [**Essential 1.1.2** - iOS13 آخرین نسخه سازگار با](https://www.icloud.com/shortcuts/bbace1e1a13b4293a0b3dece4a1c3f85)  
   * تغییرات 
     * رفع باگی که پس از اجرای چند دستور باعث کندی دستگاه میشد
     * Upgrade Tweaks رفع باگ گزینه
@@ -31,13 +31,13 @@
 
 <br/>
 
-* [**Essential 1.0.7** - iOS 12 آخرین نسخه سازگار با](https://www.icloud.com/shortcuts/79871b3b061a44a0b753130129ea373f)  
+* [**Essential 1.0.7** - iOS12 آخرین نسخه سازگار با](https://www.icloud.com/shortcuts/79871b3b061a44a0b753130129ea373f)  
   * تغییرات
     * Refresh Sources رفع باگ گزینه
 
 <br/>
 
-* [Download older versions - نصب نسخه های قدیمی](#changelogs)
+* [Download older versions - نسخه های قدیمی](#changelogs)
 
 
 <br/>
