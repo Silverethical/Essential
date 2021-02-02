@@ -257,8 +257,12 @@
   * Fix cydo error افزودن گزینه
 <br/>
   *در سیدیا cydo رفع ارور*
-  * Fix Cydia crash به Delete metadata.cb0 تغییر نام گزینه
-
+  * تغییر نام گزینه
+  <br/>
+  Delete metadata.cb0
+  <br/>
+  Fix Cydia crash به
+  
 <br/>
 
 [**Essential 1.0.4**](https://www.icloud.com/shortcuts/9123475ebcb34896a23e034559008ab9)  
