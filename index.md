@@ -165,8 +165,6 @@
 
 # Changelogs
 
-## (مشکلات تایپی این بخش به زودی برطرف میشوند)
-
 [**Essential 1.1.2**](https://www.icloud.com/shortcuts/bbace1e1a13b4293a0b3dece4a1c3f85)  
 * پیش‌نیازها
   * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo
@@ -214,12 +212,12 @@
   * DEB Installer افزودن گزینه
 <br/>
   *نصب فایل دب از طریق لینک*
-  * افزودن گزینه Export tweak list
+  * Export tweak list افزودن گزینه
 <br/>
   *استخراج لیست توییک‌های نصب شده*
   * Export sources افزودن گزینه
 <br/>
-  *Cydia و Zebra استخراج لیست سورس‌ها از
+  *Cydia و Zebra استخراج لیست سورس‌ها از*
   * تغییر آیکون
 
 <br/>
@@ -240,10 +238,10 @@
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
   * رفع چند باگ جزئی
-  * استفاده از پورت 2222 روی چکرین برای سرعت بالاتر
+  * استفاده از پورت 2222 روی چکرین برای کارایی بالاتر
   * Kill homed افزودن گزینه
 <br/>
-  *رفع برخی مشکلات مانند ناپدید شدن هوم مجازی، کار نکردن اینترنت سیم‌کارت و غیره
+  *رفع برخی مشکلات مانند ناپدید شدن هوم مجازی، کار نکردن اینترنت سیم‌کارت و غیره*
 
 <br/>
 
@@ -252,10 +250,14 @@
   * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
-  * رفع باگ گزینه set generator
-  * قابلیت نصب و حذف دو پکیج‌منیجر Zebra و Installer (مناسب برای مواقعی که سیدیا به مشکل می‌خورد)
-  * افزودن گزینه Fix cydo error (رفع ارور cydo در سیدیا)
-  * تغییر نام گزینه Delete metadata.cb0 به Fix Cydia crash
+  * set generator رفع باگ گزینه
+  * Zebra و Installer قابلیت نصب و حذف دو پکیج‌منیجر
+<br/>
+  *مناسب برای مواقعی که سیدیا به مشکل می‌خورد*
+  * Fix cydo error افزودن گزینه
+<br/>
+  *در سیدیا cydo رفع ارور*
+  * Fix Cydia crash به Delete metadata.cb0 تغییر نام گزینه
 
 <br/>
 
@@ -264,11 +266,21 @@
   * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
-  * افزودن گزینه Refresh Sources (رفرش سورس‌ها)
-  * افزودن گزینه Update Tweaks (آپدیت توییک‌ها)
-  * افزودن گزینه Install Zebra (نصب زبرا)
-  * افزودن گزینه Delete matadata.cb0 (رفع مشکل کرش سیدیا برای برخی کابران)
-  * افزودن گزینه Power off (خاموش کردن دستگاه)
+  * Refresh Sources افزودن گزینه
+<br/>
+  *رفرش سورس‌ها*
+  * Update Tweaks افزودن گزینه
+<br/>
+  *آپدیت توییک‌ها*
+  * Install Zebra افزودن گزینه
+<br/>
+  *نصب زبرا*
+  * Delete matadata.cb0 افزودن گزینه
+<br/>
+  *رفع مشکل کرش سیدیا برای برخی کابران*
+  * Power off افزودن گزینه
+<br/>
+  *خاموش کردن دستگاه*
 
 <br/>
 
@@ -277,7 +289,9 @@
   * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
-  * سازگازی با iOS 12 (این نسخه روی iOS 12.4 ساخته شده است؛ بنابراین ممکن است با iOS‌های پایین‌تر از 12.4 سازگار نباشد.)
+  * iOS 12 سازگازی با
+<br/>
+  *ساخته شده است؛ بنابراین ممکن است با آی او اس های پایین‌تر از 12.4 سازگار نباشد iOS 12.4 این نسخه روی*
 
 <br/>
 
@@ -286,7 +300,7 @@
   * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
-* پشتیبانی از دستگاه‌های جیلبریک شده با سایر ابزارها. پیش‌نیاز: توییک LocalSSH از سورس Halo-Michael
+    * پشتیبانی از دستگاه‌های جیلبریک شده با سایر ابزارها
 
 <br/>
 
@@ -294,9 +308,9 @@
 * پیش‌نیازها
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
-  * افزودن گزینه Uptime
-  * افزودن گزینه Reboot userspace
-  * دریافت اعلان پس از Uicache
+  * Uptime افزودن گزینه
+  * Reboot userspace افزودن گزینه
+  * Uicache دریافت اعلان پس از
 
 <br/>
 
@@ -304,7 +318,7 @@
 * پیش‌نیازها
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
-  * پشتیبانی فقط از دستگاه‌های جیلبریک شده با Checkra1n
+  * Checkra1n پشتیبانی فقط از دستگاه‌های جیلبریک شده با
 
 
 <br/>
