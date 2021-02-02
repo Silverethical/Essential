@@ -192,16 +192,16 @@
   * Refresh Sources رفع باگ گزینه
   * برای استخراج سورس‌ها Installer 5 پشتیبانی از
   * Import Sources افزودن گزینه
-  <br/>
+<br/>
   *وارد کردن سورس‌های استخراج شده*
   * Revert sources افزودن گزینه
-    <br/>
+<br/>
   *Import برگرداندن سورس‌ها به قبل از*
   * Install Cydia افزودن گزینه
-    <br/>
+<br/>
   *نصب سیدیا*
   * Zebra و Installer 5 تغییر روش نصب
-  <br/>
+<br/>
   *دیگر نیازی به افزودن سورس قبل از نصب نیست؛ به همین خاطر فقط با یک کلیک پکیج‌منیجر موردنظر نصب می‌شود*
 
 <br/>
@@ -211,9 +211,15 @@
   * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
-  * افزودن گزینه DEB Installer (نصب فایل دب از طریق لینک)
-  * افزودن گزینه Export tweak list (استخراج لیست توییک‌های نصب شده)
-  * افزودن گزینه Export sources (استخراج لیست سورس‌ها از Cydia و Zebra)
+  * DEB Installer افزودن گزینه
+<br/>
+  *نصب فایل دب از طریق لینک*
+  * افزودن گزینه Export tweak list
+<br/>
+  *استخراج لیست توییک‌های نصب شده*
+  * Export sources افزودن گزینه
+<br/>
+  *Cydia و Zebra استخراج لیست سورس‌ها از
   * تغییر آیکون
 
 <br/>
@@ -223,8 +229,8 @@
   * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
-  * آخرین نسخه سازگار با iOS 12
-  * رفع باگ گزینه Refresh Sources
+  * iOS 12 آخرین نسخه سازگار با
+  * Refresh Sources رفع باگ گزینه
 
 <br/>
 
@@ -234,8 +240,10 @@
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
   * رفع چند باگ جزئی
-  * استفاده از پورت 2222 روی چکرین برای سرعت بالاتر (پیش‌نیاز: توییک LocalSSH از سورس Halo-Michael)
-  * افزودن گزینه Kill homed (رفع برخی مشکلات مانند ناپدید شدن AssistiveTouch، کار نکردن اینترنت سیم‌کارت و ...)
+  * استفاده از پورت 2222 روی چکرین برای سرعت بالاتر
+  * Kill homed افزودن گزینه
+<br/>
+  *رفع برخی مشکلات مانند ناپدید شدن هوم مجازی، کار نکردن اینترنت سیم‌کارت و غیره
 
 <br/>
 
