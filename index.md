@@ -251,7 +251,7 @@
   * _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 * تغییرات
   * set generator رفع باگ گزینه
-  * Zebra و Installer قابلیت نصب و حذف دو پکیج‌منیجر
+  * Zebra و Installer قابلیت نصب و حذف
 <br/>
   *مناسب برای مواقعی که سیدیا به مشکل می‌خورد*
   * Fix cydo error افزودن گزینه
