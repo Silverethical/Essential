@@ -1,6 +1,7 @@
 
 # Welcome
 
+<div dir="rtl">
 
 * **[نصب اِسِنشال](#download)**  
 
@@ -13,6 +14,8 @@
 * **[تغییرات نسخه ها](#changelogs)**  
 
 * **[حمایت از سازنده](#support)**  
+
+<div dir="rtl">
 
 
 <br/>
