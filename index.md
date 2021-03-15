@@ -1,9 +1,9 @@
 
 # Welcome
 
-* **[نصب اِسِنشال](#download)**  
-
 * **[توییک های پیش‌نیاز](#dependencies)**  
+
+* **[نصب اِسِنشال](#download)**  
 
 * **[معرفی اِسِنشال](#description)**  
 
@@ -12,6 +12,15 @@
 * **[تغییرات نسخه ها](#changelogs)**  
 
 * **[حمایت از سازنده](#support)**  
+
+
+<br/>
+<br/>
+
+
+# Dependencies
+* _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
+*بدون این توییک، شرتکات اِسِنشال کار نمیکند* 
 
 
 <br/>
@@ -34,15 +43,6 @@
 <br/>
 
 * [Download older versions - نسخه های قدیمی](#changelogs)
-
-
-<br/>
-<br/>
-
-
-# Dependencies
-* _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
-*بدون این توییک، شرتکات اِسِنشال کار نمیکند* 
 
 
 <br/>
