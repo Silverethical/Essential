@@ -19,17 +19,11 @@
 
 
 # Download
-* [**Essential 1.1.2** - iOS13 آخرین نسخه سازگار با](https://www.icloud.com/shortcuts/bbace1e1a13b4293a0b3dece4a1c3f85)  
+* [**Essential 1.1.3** - iOS13 آخرین نسخه سازگار با](https://www.icloud.com/shortcuts/88e5637db0044e17a99f67cbc74d55a4)  
   * تغییرات 
-    * رفع باگی که پس از اجرای چند دستور باعث کندی دستگاه میشد
-    * Upgrade Tweaks رفع باگ گزینه
-    * Check for updates افزودن گزینه
-<br/>
-    چک کردن برای نسخه جدید
-    * Report bugs افزودن گزینه
-<br/>
-    گزارش باگ
-
+    * iOS 13 آخرین نسخه سازگار با
+    * تر و تمیز کردن کد
+    * Set Generator حذف گزینه
 
 <br/>
 
@@ -50,10 +44,6 @@
 ### توییک پیش‌نیاز برای همه  
 * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 *بدون این توییک، شرتکات اِسِنشال کار نمیکند* 
-
-### پیش‌نیاز فقط برای کاربران چکرین  
-* _**Generator Auto Setter**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
-*این توییک فقط برای قابلیت تنظیم نانس روی چکرین میباشد* 
 
 
 <br/>
@@ -98,10 +88,7 @@
    
    * Power off  
    *خاموش کردن دستگاه*  
-   
-   * Set Generator (Checkra1n)  
-   *تنظیم نانس روی چکرین*  
-   
+      
    * Run command(s) as root  
    *اجرای دستور دلخواه*  
 
@@ -166,6 +153,16 @@
 
 
 # Changelogs
+
+[**Essential 1.1.3**](https://www.icloud.com/shortcuts/88e5637db0044e17a99f67cbc74d55a4)  
+* پیش‌نیازها
+  * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo
+* تغییرات 
+  * iOS 13 آخرین نسخه سازگار با
+  * تر و تمیز کردن کد
+  * Set Generator حذف گزینه
+
+<br/>
 
 [**Essential 1.1.2**](https://www.icloud.com/shortcuts/bbace1e1a13b4293a0b3dece4a1c3f85)  
 * پیش‌نیازها
