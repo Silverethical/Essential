@@ -30,7 +30,6 @@
 # Download
 * [**Essential 1.1.3** - iOS13 آخرین نسخه سازگار با](https://www.icloud.com/shortcuts/88e5637db0044e17a99f67cbc74d55a4)  
   * تغییرات 
-    * iOS 13 آخرین نسخه سازگار با
     * تر و تمیز کردن کد
     * Set Generator حذف گزینه
 
