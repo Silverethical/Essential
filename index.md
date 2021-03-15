@@ -41,7 +41,6 @@
 
 
 # Dependencies
-### توییک پیش‌نیاز برای همه  
 * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 *بدون این توییک، شرتکات اِسِنشال کار نمیکند* 
 
