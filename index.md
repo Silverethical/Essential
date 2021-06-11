@@ -19,7 +19,7 @@
 
 
 # Dependencies
-* _**OpenSSH**_ 
+* _**OpenSSH**_<br/>
 *از سورس پیش فرض مخصوص هر جیلبریک* 
 * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
 *فقط برای چکرین و آنکاور* 
