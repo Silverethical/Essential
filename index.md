@@ -19,8 +19,10 @@
 
 
 # Dependencies
+* _**OpenSSH**_ 
+*از سورس پیش فرض مخصوص هر جیلبریک* 
 * _**LocalSSH**_ from [Halo-Michael](https://halo-michael.github.io/repo/) repo  
-*بدون این توییک، شرتکات اِسِنشال کار نمیکند* 
+*فقط برای چکرین و آنکاور* 
 
 
 <br/>
