@@ -21,7 +21,7 @@
 *از سورس پیش فرض مخصوص هر جیلبریک*
 
 * _**LocalSSH**_<br/>
-* [Halo-Michael](https://halo-michael.github.io/repo/) از سورس  
+_**[Halo-Michael](https://halo-michael.github.io/repo/) از سورس**_ 
 *فقط برای چکرین و آنکاور* 
 
 
